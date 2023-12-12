@@ -31,6 +31,10 @@ return [
 
     'env' => env('APP_ENV', 'production'),
 
+    //NYT api key
+
+    'api_key' => env('API_KEY', 'RiBTWUao1thGlCL5S73qLNExKIXPw3se'),
+
     /*
     |--------------------------------------------------------------------------
     | Application Debug Mode
