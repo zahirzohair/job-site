@@ -7,4 +7,4 @@ users can filter based on skills and location and also search the job they looki
 
 
 ## Programing Languages used 
-The system is build based on Laravel and blade template. 
+The system is build based on Laravel in backend and laravel blade template in the front end and mysql for the database.
